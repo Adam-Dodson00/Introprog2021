@@ -2,7 +2,7 @@
 
 namespace Selectiontasks
 {
-    class Program
+    class ex2
     {
         static void Main(string[] args)
         {   
