@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\Selectiontasks\\Selectiontasks.csproj",
+      "projectUniqueName": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\Selectiontasks.csproj",
       "projectName": "Selectiontasks",
-      "projectPath": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\Selectiontasks\\Selectiontasks.csproj",
+      "projectPath": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\Selectiontasks.csproj",
       "packagesPath": "C:\\Users\\adamd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\Selectiontasks\\obj\\",
+      "outputPath": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adamd\\AppData\\Roaming\\NuGet\\NuGet.Config"
